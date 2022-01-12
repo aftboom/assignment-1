@@ -9,7 +9,7 @@ h1{
     font-size: 200%;
     font-weight: 700;
     font-style: italic;
-    border-left: 5px solid rgb(216, 77, 77);
+    border-left: 4px solid rgb(216, 77, 77);
     height: 100px;
     padding-left: 10px;
 
@@ -17,7 +17,7 @@ h1{
 .red-color{
     color: rgb(216, 77, 77);
 }
-section{
+.top-sec{
     display: flex
 }
 .first-sec-div{
@@ -25,7 +25,7 @@ section{
     padding-left: 10%;
 }
 .first-sec-div img{
-    width: 70%;
+    width: 77%;
 
 }
 .button-tag{
@@ -35,4 +35,45 @@ section{
     color: white;
     font-weight: 400;
     border-radius: 3px;
+}
+.center{
+    text-align: center;
+}
+.mission-sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-inline-start: 100px;
+    margin-inline-end: 70px;
+    
+}
+.mission-div{
+    background-color: rgb(248, 223, 221);
+    width: 300px;
+    height: 350px;
+    padding: 15px 20px;
+    border-radius: 5%;
+}
+.mission-div img{
+    width: 50%;
+}
+.vission-div{
+    background-color:rgb(202, 219, 210);
+    width: 300px;
+    height: 350px;
+    padding: 15px 20px;
+    border-radius: 5%;
+}
+.vission-div img{
+    width: 50%;
+}
+.goals-div{
+    background-color:rgb(250, 228, 210);
+    width: 300px;
+    height: 350px;
+    padding: 15px 20px;
+    border-radius: 5%;
+}
+.goals-div img{
+    width: 50%;
 }
