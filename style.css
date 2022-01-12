@@ -29,10 +29,10 @@ section{
 
 }
 .button-tag{
+    background-image: linear-gradient(brown,salmon);
     text-decoration: none;
-    background-color: rgb(216, 77, 77);
-    color: white;
     padding: 10px 40px;
-    border-radius: 5px;
+    color: white;
     font-weight: 400;
+    border-radius: 3px;
 }
