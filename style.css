@@ -111,6 +111,9 @@ h2{
     text-align: center;
     font-style: unset;
     font-size: 200;
+    background-image: url(./images/shapes/shape-4.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 .bonus-tag{
     background-image: linear-gradient(rgb(35, 37, 70),rgb(122, 187, 187));
